@@ -7,7 +7,7 @@ import reduxThunk from 'redux-thunk';
 import App from './components/App';
 import reducers from './reducers';
 
-
+// Allow applyMiddleware to be used with Redux_DEVTOLLS_EXTENSION together
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 const store = createStore(
     reducers,

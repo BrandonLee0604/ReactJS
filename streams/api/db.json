@@ -11,34 +11,26 @@
       "id": 2
     },
     {
-      "title": "First Stream",
-      "description": "This is the first stream",
-      "id": 3
+      "title": "My Stream",
+      "description": "This is my stream",
+      "id": 11
     },
     {
-      "title": "123",
-      "description": "123",
-      "id": 4
+      "title": "I created this Stream",
+      "description": "This was made by me",
+      "id": 12
     },
     {
-      "title": "123",
-      "description": "123",
-      "id": 5
+      "title": "New Stream",
+      "description": "I created this new stream",
+      "userId": "110152416156287834395",
+      "id": 13
     },
     {
-      "title": "123",
-      "description": "123",
-      "id": 6
-    },
-    {
-      "title": "123",
-      "description": "123",
-      "id": 7
-    },
-    {
-      "title": "LBD",
-      "description": "LBD is god",
-      "id": 8
+      "title": "Me Streaming Components Reuse",
+      "description": "This is made by a patch request!",
+      "userId": "110152416156287834395",
+      "id": 14
     }
   ]
 }
