@@ -21,16 +21,10 @@
       "id": 12
     },
     {
-      "title": "New Stream",
-      "description": "I created this new stream",
+      "title": "Test Stream1",
+      "description": "Test Stream1",
       "userId": "110152416156287834395",
       "id": 13
-    },
-    {
-      "title": "Me Streaming Components Reuse",
-      "description": "This is made by a patch request!",
-      "userId": "110152416156287834395",
-      "id": 14
     }
   ]
 }
